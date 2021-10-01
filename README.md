@@ -13,6 +13,7 @@ SO THAT I can keep a list of books to purchase
 
 ## Install
 You will need to install the following packages before running the program - Apoll, GraphQL, Node. Once installed you will need to run the following at the root level
+
     npm run develop
 
 In your browser you will see the URL with the server running. 
@@ -22,7 +23,7 @@ In your browser you will see the URL with the server running.
 
 ## Built With
 
-The program was built with teh following: 
+The program was built with the following: 
 
 * GraphQL
 * Apollo Server
