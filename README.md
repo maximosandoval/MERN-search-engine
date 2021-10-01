@@ -36,5 +36,5 @@ The program was built with the following:
 
 
 ## Screenshots
-[Screenshot](https://maximosandoval.github.io/MERN-search-engine/images/MERN-se-1.png)
+[Screenshot](https://maximosandoval.github.io/MERN-search-engine/images/MERN-se-10.png)
 
