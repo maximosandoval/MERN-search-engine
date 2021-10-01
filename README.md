@@ -2,7 +2,7 @@
 
 Most modern websites are driven by two things: data and user demands. The true cornerstone of web development today is giving the end user the ability to personalize data. Utilizing Google Books API search engine built with a RESTful API, I alot of the code to allow the end user to fetch and modify data, modified middleware so it works with GraphQL, and created an Apollo server to run alongside node. 
 
-* View deployed Heroku app [HERE](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* View deployed Heroku app [HERE](https://mern-search-engine.herokuapp.com/)
 * [Install](https://gist.github.com/maximosandoval/MERN-search-engine/#install)
 
 ## User Story
